@@ -1,0 +1,496 @@
+--- Job rs_ex3_wp1.gms Start 06/28/18 18:22:37 24.8.2 r59988 LEX-LEG x86 64bit/Linux
+GAMS 24.8.2   Copyright (C) 1987-2017 GAMS Development. All rights reserved
+Licensee: Ricardo Lima, Single User License              G170111:0504AO-LNX
+          King Abdullah University of Science and Technology, InformDC11544
+          License for teaching and research at degree granting institutions
+          ricardo.lima@kaust.edu.sa                                        
+--- Starting compilation
+--- rs_ex3_wp1.gms(566) 3 Mb
+--- Starting execution: elapsed 0:00:00.203
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 1
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000001
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 2
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000002
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 3
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000003
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 4
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000004
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 5
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000005
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 6
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000006
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 7
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000007
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 8
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000008
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 9
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000009
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 10
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000010
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 11
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000011
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 12
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000012
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 13
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000013
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 14
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000014
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 15
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000015
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 16
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000016
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 17
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000017
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 18
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000018
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 19
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000019
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 20
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000020
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 21
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000021
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 22
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000022
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 23
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000023
+--- rs_ex3_wp1.gms(265) 4 Mb
+--- Generating NLP model path_planning0
+--- rs_ex3_wp1.gms(282) 7 Mb
+--- LOOPS se = 24
+---   1,856 rows  1,552 columns  4,941 non-zeroes
+---   4,650 nl-code  1,395 nl-non-zeroes
+--- rs_ex3_wp1.gms(282) 4 Mb
+--- Submitting model path_planning0 with handle grid198000024
+--- rs_ex3_wp1.gms(308) 4 Mb
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000023/gmsgrid.gdx
+--- Removed handle grid198000023
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000020/gmsgrid.gdx
+--- Removed handle grid198000020
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000022/gmsgrid.gdx
+--- Removed handle grid198000022
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000021/gmsgrid.gdx
+--- Removed handle grid198000021
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000017/gmsgrid.gdx
+--- Removed handle grid198000017
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000015/gmsgrid.gdx
+--- Removed handle grid198000015
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000014/gmsgrid.gdx
+--- Removed handle grid198000014
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000024/gmsgrid.gdx
+--- Removed handle grid198000024
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000016/gmsgrid.gdx
+--- Removed handle grid198000016
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000019/gmsgrid.gdx
+--- Removed handle grid198000019
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000010/gmsgrid.gdx
+--- Removed handle grid198000010
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000012/gmsgrid.gdx
+--- Removed handle grid198000012
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000018/gmsgrid.gdx
+--- Removed handle grid198000018
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000013/gmsgrid.gdx
+--- Removed handle grid198000013
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000011/gmsgrid.gdx
+--- Removed handle grid198000011
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000001/gmsgrid.gdx
+--- Removed handle grid198000001
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000006/gmsgrid.gdx
+--- Removed handle grid198000006
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000005/gmsgrid.gdx
+--- Removed handle grid198000005
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000007/gmsgrid.gdx
+--- Removed handle grid198000007
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000003/gmsgrid.gdx
+--- Removed handle grid198000003
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000002/gmsgrid.gdx
+--- Removed handle grid198000002
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000004/gmsgrid.gdx
+--- Removed handle grid198000004
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000008/gmsgrid.gdx
+--- Removed handle grid198000008
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid198000009/gmsgrid.gdx
+--- Removed handle grid198000009
+--- rs_ex3_wp1.gms(477) 4 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 1
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000001
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 2
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000002
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 3
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000003
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 4
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000004
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 5
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000005
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 6
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000006
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 7
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000007
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 8
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000008
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 9
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000009
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 10
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000010
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 11
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000011
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 12
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000012
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 13
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000013
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 14
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000014
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 15
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000015
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 16
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000016
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 17
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000017
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 18
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000018
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 19
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000019
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 20
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000020
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 21
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000021
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 22
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000022
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 23
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000023
+--- rs_ex3_wp1.gms(477) 5 Mb
+--- Generating NLP model path_planning2
+--- rs_ex3_wp1.gms(492) 7 Mb
+--- LOOPS se = 24
+---   2,321 rows  2,017 columns  7,263 non-zeroes
+---   8,835 nl-code  2,790 nl-non-zeroes
+--- rs_ex3_wp1.gms(492) 5 Mb
+--- Submitting model path_planning2 with handle grid209000024
+--- rs_ex3_wp1.gms(512) 5 Mb
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000017/gmsgrid.gdx
+--- Removed handle grid209000017
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000015/gmsgrid.gdx
+--- Removed handle grid209000015
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000016/gmsgrid.gdx
+--- Removed handle grid209000016
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000019/gmsgrid.gdx
+--- Removed handle grid209000019
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000018/gmsgrid.gdx
+--- Removed handle grid209000018
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000014/gmsgrid.gdx
+--- Removed handle grid209000014
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000024/gmsgrid.gdx
+--- Removed handle grid209000024
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000012/gmsgrid.gdx
+--- Removed handle grid209000012
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000022/gmsgrid.gdx
+--- Removed handle grid209000022
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000011/gmsgrid.gdx
+--- Removed handle grid209000011
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000021/gmsgrid.gdx
+--- Removed handle grid209000021
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000020/gmsgrid.gdx
+--- Removed handle grid209000020
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000003/gmsgrid.gdx
+--- Removed handle grid209000003
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000013/gmsgrid.gdx
+--- Removed handle grid209000013
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000001/gmsgrid.gdx
+--- Removed handle grid209000001
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000002/gmsgrid.gdx
+--- Removed handle grid209000002
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000004/gmsgrid.gdx
+--- Removed handle grid209000004
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000006/gmsgrid.gdx
+--- Removed handle grid209000006
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000005/gmsgrid.gdx
+--- Removed handle grid209000005
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000008/gmsgrid.gdx
+--- Removed handle grid209000008
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000007/gmsgrid.gdx
+--- Removed handle grid209000007
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000009/gmsgrid.gdx
+--- Removed handle grid209000009
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000010/gmsgrid.gdx
+--- Removed handle grid209000010
+--- GDXin=/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225e/grid209000023/gmsgrid.gdx
+--- Removed handle grid209000023
+--- rs_ex3_wp1.gms(566) 5 Mb
+--- Putfile wdata /home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/ini_ex3_wp1_fx.csv
+--- Putfile wdata2 /home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/current_ex3_wp1_fx.csv
+*** Status: Normal completion
+--- Job rs_ex3_wp1.gms Stop 06/28/18 19:20:04 elapsed 0:57:27.552

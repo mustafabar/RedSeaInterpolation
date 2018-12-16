@@ -1,0 +1,2 @@
+#!/bin/sh
+/home/albarass/RedSeaInterpolation/ocean_interpolation/rs_example2/225a/grid199000008/runit.sh > /dev/null &

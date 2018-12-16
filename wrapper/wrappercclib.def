@@ -1,0 +1,10 @@
+LIBRARY wrappercclib.dll
+EXPORTS
+xcreate
+xfree
+libinit
+u
+v
+w
+charac
+querylibrary

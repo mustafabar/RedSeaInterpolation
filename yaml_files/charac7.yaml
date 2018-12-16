@@ -1,0 +1,8 @@
+---
+hx: 4100.0
+hy: 4448.0
+nx: 499
+ny: 499
+nz: 50
+field: '/home/albarass/RedSeaInterpolation/ocean_interpolation/tmp/charac7.bin'
+z_grid: '/home/albarass/RedSeaInterpolation/ocean_interpolation/tmp/z7.bin'

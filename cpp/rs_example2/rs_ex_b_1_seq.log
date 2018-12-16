@@ -1,0 +1,5 @@
+--- Job rs_ex_b_1_seq Start 06/24/18 06:43:52 24.8.2 r59988 LEX-LEG x86 64bit/Linux
+*** Unable to open input file (RC=2) rs_ex_b_1_seq
+*** SysMsg: No such file or directory
+*** Status: Terminated due to parameter errors
+--- Job rs_ex_b_1_seq Stop 06/24/18 06:43:52 elapsed 0:00:00.001

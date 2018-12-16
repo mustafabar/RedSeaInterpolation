@@ -1,0 +1,8 @@
+---
+hx: 4100.0
+hy: 4448.0
+nx: 499
+ny: 499
+nz: 50
+# field: 'tmp/v.bin'
+# z_grid: 'tmp/z.bin'
