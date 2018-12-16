@@ -10,7 +10,7 @@ if(BUILD_TESTING)
   include_directories(${GTEST_INCLUDE_DIRS})
 endif()
 
-set(CMAKE_CXX_FLAGS "-fPIC -fopenmp -O3 -std=c++11 -pthread -static -static-libgcc -static-libstdc++ -mcmodel=large")
+set(CMAKE_CXX_FLAGS "-fopenmp -O3 -std=c++11 -pthread")
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # find_package(Eigen3 REQUIRED)
